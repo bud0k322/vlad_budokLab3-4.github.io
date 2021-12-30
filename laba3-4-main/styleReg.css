@@ -20,7 +20,7 @@ header {
     align-items: center;
     
 
-    background: #ECAD73;  
+    background: #00aff0;
 }
 
 .header__button1 {
@@ -28,7 +28,7 @@ header {
 
     width: 100px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -46,7 +46,7 @@ header {
 .header__button2 {
     width: 150px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -151,7 +151,7 @@ h3 {
 .div__button{
     width: 220px;
     height: 40px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
     border-radius: 15px;
@@ -185,7 +185,7 @@ footer {
     font-size: 30px;
     line-height: 29px;
   
-    color: #ECAD73;
+    color: #00aff0;
 }
 
 .footer__button2 {
